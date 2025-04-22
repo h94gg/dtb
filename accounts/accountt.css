@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 10px;
+}
+
+.welcome-message {
+    background-color: #7fdce483;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-shadow:7px 5px 7px 7px rgba(0, 25, 0, 9.1);
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+    box-shadow:7px 5px 7px 7px rgba(0, 25, 0, 9.1);
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+th {
+    
+    background-color: #7fdce483;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    margin: 20px auto;
+    display: block;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    box-shadow:7px 5px 7px 7px rgba(0, 25, 0, 9.1);
+}
+
+input[type="submit"]:hover {
+    background-color: #218838;
+    
+}
+
+.success-message {
+    color: green;
+    margin: 20px auto;
+    font-size: 18px;
+}
