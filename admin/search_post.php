@@ -9,9 +9,10 @@
 session_start();
 
 // معلومات الاتصال بقاعدة البيانات
-$servername = "localhost";
+$servername = "Driver={MySQL ODBC 8.0 UNICODE Driver};Server=MYSQL1002.site4now.net;Database=db_ab8100_dbeps;Uid=ab8100_dbeps;Password=BF2fHLwra@h4seY
+";
 $username = "root";
-$password = "";
+$password = "19941994Ha";
 $dbname = "dbeps";
 
 // إنشاء الاتصال
