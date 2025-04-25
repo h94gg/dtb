@@ -2,7 +2,7 @@
 // add_user_post.php
 
 // معلومات الاتصال بقاعدة البيانات
-$servername = ""Server=MYSQL1002.site4now.net;Database=db_ab8100_hayder0;Uid=ab8100_hayder0;Pwd=BF2fHLwra@h4seY";
+$servername = "Server=MYSQL1002.site4now.net;Database=db_ab8100_hayder0;Uid=ab8100_hayder0;Pwd=BF2fHLwra@h4seY";
 $username = "root";
 $password = "19941994Ha";
 $dbname = "dbeps";
